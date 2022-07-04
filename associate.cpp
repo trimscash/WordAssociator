@@ -10,6 +10,9 @@ using namespace std;
 
 json wordList;
 
+#define DIR "c:\\wordList.json" //wordList.json の絶対パス
+
+
 string inputWord(string printWord){
 	string returnWord;
 	cout <<printWord;
@@ -45,7 +48,7 @@ void printWord(string word){
 }
 
 void saveJSON() {
-	ofstream oStream("c:\\Users\\dadeh\\Downloads\\WordAssociator\\wordList.json");
+	ofstream oStream(DIR);
 	if (!oStream) {
 		cout << "ERROR. Can't open File..GOOD BYE.." << endl;
 		exit(0);
@@ -281,7 +284,7 @@ void mainModeHelp() {
 
 int main(){
 	cout<<"Loading..."<<endl;
-	ifstream iFile("c:\\Users\\dadeh\\Downloads\\WordAssociator\\wordList.json");
+	ifstream iFile(DIR);
 	if(!iFile){
 		cout<<"ERROR. Can't open File..GOOD BYE.."<<endl;
 		return 0;
