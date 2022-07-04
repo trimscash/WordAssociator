@@ -1,0 +1,210 @@
+{
+    "absolutely": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "absolutely"
+    },
+    "according": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "according"
+    },
+    "afford": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "afford"
+    },
+    "ask": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "ask"
+    },
+    "calculate": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "calculate"
+    },
+    "closely": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "closely"
+    },
+    "correctly": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "correctly"
+    },
+    "despite": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "despite"
+    },
+    "duty": {
+        "associatedWords": [
+            "mandatory"
+        ],
+        "explanation": "",
+        "word": "duty"
+    },
+    "entirely": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "entirely"
+    },
+    "except": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "except"
+    },
+    "extensively": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "extensively"
+    },
+    "fortunate": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "fortunate"
+    },
+    "frequently": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "frequently"
+    },
+    "have_to": {
+        "associatedWords": [
+            "mandatory"
+        ],
+        "explanation": "",
+        "word": "have_to"
+    },
+    "job": {
+        "associatedWords": [
+            "task"
+        ],
+        "explanation": "",
+        "word": "job"
+    },
+    "kindly": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "kindly"
+    },
+    "legal": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "legal"
+    },
+    "lift": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "lift"
+    },
+    "longtime": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "longtime"
+    },
+    "mandatory": {
+        "associatedWords": [
+            "must",
+            "have_to",
+            "duty"
+        ],
+        "explanation": "",
+        "word": "mandatory"
+    },
+    "mostly": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "mostly"
+    },
+    "must": {
+        "associatedWords": [
+            "mandatory",
+            "mandatory"
+        ],
+        "explanation": "",
+        "word": "must"
+    },
+    "otherwise": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "otherwise"
+    },
+    "overlook": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "overlook"
+    },
+    "overtime": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "overtime"
+    },
+    "particularly": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "particularly"
+    },
+    "regardless": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "regardless"
+    },
+    "regularly": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "regularly"
+    },
+    "relatively": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "relatively"
+    },
+    "resolve": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "resolve"
+    },
+    "retrieve": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "retrieve"
+    },
+    "shortly": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "shortly"
+    },
+    "successfully": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "successfully"
+    },
+    "task": {
+        "associatedWords": [
+            "job",
+            "work"
+        ],
+        "explanation": "",
+        "word": "task"
+    },
+    "via": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "via"
+    },
+    "word": {
+        "associatedWords": [],
+        "explanation": "",
+        "word": "word"
+    },
+    "work": {
+        "associatedWords": [
+            "task"
+        ],
+        "explanation": "",
+        "word": "work"
+    }
+}
