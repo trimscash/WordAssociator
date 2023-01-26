@@ -3,14 +3,14 @@
 #include <stdio.h>
 #include <fstream>
 #include <vector>
-#include "json/include/nlohmann/json.hpp"
+#include "nlohmann/json.hpp"
 
 using namespace nlohmann;
 using namespace std;
 
 json wordList;
 
-#define DIR "/home/username/wordList.json" //wordList.json の絶対パス
+#define DIR "/home/username/wordList.json" //absolute path of wordList.json
 
 
 string inputWord(string printWord){
